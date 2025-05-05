@@ -1,0 +1,112 @@
+{
+    "Total Juegos": 14,
+    "Juegos por Género": {
+        "Acción-aventura": 6,
+        "Rol de acción": 4,
+        "Aventura gráfica": 1,
+        "Disparos en primera persona": 1,
+        "Aventura cooperativa": 1,
+        "Rol": 1
+    },
+    "Juegos por Desarrollador": {
+        "Rockstar San Diego": 1,
+        "Bethesda Game Studios": 1,
+        "Telltale Games": 1,
+        "Rockstar North": 1,
+        "BioWare": 1,
+        "CD Projekt Red": 1,
+        "Blizzard Entertainment": 1,
+        "Nintendo EPD": 1,
+        "Santa Monica Studio": 1,
+        "FromSoftware": 2,
+        "Naughty Dog": 1,
+        "Hazelight Studios": 1,
+        "Larian Studios": 1
+    },
+    "Detalle Juegos": [
+        {
+            "Año": 2010,
+            "Juego": "Red Dead Redemption",
+            "Desarrollador": "Rockstar San Diego",
+            "Género": "Acción-aventura"
+        },
+        {
+            "Año": 2011,
+            "Juego": "The Elder Scrolls V: Skyrim",
+            "Desarrollador": "Bethesda Game Studios",
+            "Género": "Rol de acción"
+        },
+        {
+            "Año": 2012,
+            "Juego": "The Walking Dead",
+            "Desarrollador": "Telltale Games",
+            "Género": "Aventura gráfica"
+        },
+        {
+            "Año": 2013,
+            "Juego": "Grand Theft Auto V",
+            "Desarrollador": "Rockstar North",
+            "Género": "Acción-aventura"
+        },
+        {
+            "Año": 2014,
+            "Juego": "Dragon Age: Inquisition",
+            "Desarrollador": "BioWare",
+            "Género": "Rol de acción"
+        },
+        {
+            "Año": 2015,
+            "Juego": "The Witcher 3: Wild Hunt",
+            "Desarrollador": "CD Projekt Red",
+            "Género": "Rol de acción"
+        },
+        {
+            "Año": 2016,
+            "Juego": "Overwatch",
+            "Desarrollador": "Blizzard Entertainment",
+            "Género": "Disparos en primera persona"
+        },
+        {
+            "Año": 2017,
+            "Juego": "The Legend of Zelda: Breath of the Wild",
+            "Desarrollador": "Nintendo EPD",
+            "Género": "Acción-aventura"
+        },
+        {
+            "Año": 2018,
+            "Juego": "God of War",
+            "Desarrollador": "Santa Monica Studio",
+            "Género": "Acción-aventura"
+        },
+        {
+            "Año": 2019,
+            "Juego": "Sekiro: Shadows Die Twice",
+            "Desarrollador": "FromSoftware",
+            "Género": "Acción-aventura"
+        },
+        {
+            "Año": 2020,
+            "Juego": "The Last of Us Parte II",
+            "Desarrollador": "Naughty Dog",
+            "Género": "Acción-aventura"
+        },
+        {
+            "Año": 2021,
+            "Juego": "It Takes Two",
+            "Desarrollador": "Hazelight Studios",
+            "Género": "Aventura cooperativa"
+        },
+        {
+            "Año": 2022,
+            "Juego": "Elden Ring",
+            "Desarrollador": "FromSoftware",
+            "Género": "Rol de acción"
+        },
+        {
+            "Año": 2023,
+            "Juego": "Baldur’s Gate 3",
+            "Desarrollador": "Larian Studios",
+            "Género": "Rol"
+        }
+    ]
+}

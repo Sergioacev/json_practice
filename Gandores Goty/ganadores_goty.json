@@ -1,0 +1,86 @@
+[
+  {
+    "año": 2010,
+    "juego": "Red Dead Redemption",
+    "desarrollador": "Rockstar San Diego",
+    "género": "Acción-aventura"
+  },
+  {
+    "año": 2011,
+    "juego": "The Elder Scrolls V: Skyrim",
+    "desarrollador": "Bethesda Game Studios",
+    "género": "Rol de acción"
+  },
+  {
+    "año": 2012,
+    "juego": "The Walking Dead",
+    "desarrollador": "Telltale Games",
+    "género": "Aventura gráfica"
+  },
+  {
+    "año": 2013,
+    "juego": "Grand Theft Auto V",
+    "desarrollador": "Rockstar North",
+    "género": "Acción-aventura"
+  },
+  {
+    "año": 2014,
+    "juego": "Dragon Age: Inquisition",
+    "desarrollador": "BioWare",
+    "género": "Rol de acción"
+  },
+  {
+    "año": 2015,
+    "juego": "The Witcher 3: Wild Hunt",
+    "desarrollador": "CD Projekt Red",
+    "género": "Rol de acción"
+  },
+  {
+    "año": 2016,
+    "juego": "Overwatch",
+    "desarrollador": "Blizzard Entertainment",
+    "género": "Disparos en primera persona"
+  },
+  {
+    "año": 2017,
+    "juego": "The Legend of Zelda: Breath of the Wild",
+    "desarrollador": "Nintendo EPD",
+    "género": "Acción-aventura"
+  },
+  {
+    "año": 2018,
+    "juego": "God of War",
+    "desarrollador": "Santa Monica Studio",
+    "género": "Acción-aventura"
+  },
+  {
+    "año": 2019,
+    "juego": "Sekiro: Shadows Die Twice",
+    "desarrollador": "FromSoftware",
+    "género": "Acción-aventura"
+  },
+  {
+    "año": 2020,
+    "juego": "The Last of Us Parte II",
+    "desarrollador": "Naughty Dog",
+    "género": "Acción-aventura"
+  },
+  {
+    "año": 2021,
+    "juego": "It Takes Two",
+    "desarrollador": "Hazelight Studios",
+    "género": "Aventura cooperativa"
+  },
+  {
+    "año": 2022,
+    "juego": "Elden Ring",
+    "desarrollador": "FromSoftware",
+    "género": "Rol de acción"
+  },
+  {
+    "año": 2023,
+    "juego": "Baldur’s Gate 3",
+    "desarrollador": "Larian Studios",
+    "género": "Rol"
+  }
+]
