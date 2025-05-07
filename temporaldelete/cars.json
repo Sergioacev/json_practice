@@ -1,0 +1,295 @@
+{
+  "fabricante": "Ferrari",
+  "años": {
+    "2015": [
+      {
+        "modelo": "Ferrari F150",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "blanco"]
+        }
+      },
+      {
+        "modelo": "Ferrari SF16-H",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "amarillo", "gris"]
+        }
+      },
+      {
+        "modelo": "Ferrari 458 Italia",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "azul"]
+        }
+      }
+    ],
+    "2016": [
+      {
+        "modelo": "Ferrari SF70H",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "blanco", "negro"]
+        }
+      },
+      {
+        "modelo": "Ferrari 488 GTB",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "gris", "azul"]
+        }
+      },
+      {
+        "modelo": "Ferrari FXX K",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["naranja", "rojo", "negro"]
+        }
+      }
+    ],
+    "2017": [
+      {
+        "modelo": "Ferrari SF71H",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "amarillo", "blanco"]
+        }
+      },
+      {
+        "modelo": "Ferrari 812 Superfast",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "plata"]
+        }
+      },
+      {
+        "modelo": "Ferrari LaFerrari",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "blanco"]
+        }
+      }
+    ],
+    "2018": [
+      {
+        "modelo": "Ferrari SF90 Stradale",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "gris", "negro"]
+        }
+      },
+      {
+        "modelo": "Ferrari F8 Tributo",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "azul", "plata"]
+        }
+      },
+      {
+        "modelo": "Ferrari 488 Pista",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "amarillo"]
+        }
+      }
+    ],
+    "2019": [
+      {
+        "modelo": "Ferrari SF1000",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "blanco", "negro"]
+        }
+      },
+      {
+        "modelo": "Ferrari Roma",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["gris", "rojo", "negro"]
+        }
+      },
+      {
+        "modelo": "Ferrari Monza SP1",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "azul", "gris"]
+        }
+      }
+    ],
+    "2020": [
+      {
+        "modelo": "Ferrari SF21",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "blanco"]
+        }
+      },
+      {
+        "modelo": "Ferrari 812 GTS",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "gris", "amarillo"]
+        }
+      },
+      {
+        "modelo": "Ferrari Daytona SP3",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "azul"]
+        }
+      }
+    ],
+    "2021": [
+      {
+        "modelo": "Ferrari F1-75",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "blanco", "negro"]
+        }
+      },
+      {
+        "modelo": "Ferrari SF21 Evo",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "gris", "azul"]
+        }
+      },
+      {
+        "modelo": "Ferrari 296 GTB",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "plata"]
+        }
+      }
+    ],
+    "2022": [
+      {
+        "modelo": "Ferrari SF22",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "blanco", "gris"]
+        }
+      },
+      {
+        "modelo": "Ferrari Purosangue",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "azul"]
+        }
+      },
+      {
+        "modelo": "Ferrari 499P",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "gris", "amarillo"]
+        }
+      }
+    ],
+    "2023": [
+      {
+        "modelo": "Ferrari F1-76",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "blanco"]
+        }
+      },
+      {
+        "modelo": "Ferrari V12 Vision GT",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "gris", "azul"]
+        }
+      },
+      {
+        "modelo": "Ferrari Daytona SP3 EVO",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "plata"]
+        }
+      }
+    ],
+    "2024": [
+      {
+        "modelo": "Ferrari SF23",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "blanco", "gris"]
+        }
+      },
+      {
+        "modelo": "Ferrari 499P EVO",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "negro", "azul"]
+        }
+      },
+      {
+        "modelo": "Ferrari 296 GT3",
+        "detalles": {
+          "traccion": "trasera",
+          "turbo": True,
+          "tipo": "monoplaza",
+          "colores": ["rojo", "gris", "negro"]
+        }
+      }
+    ]
+  }
+}
